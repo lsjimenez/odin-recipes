@@ -1,1 +1,2 @@
-# My New Project
+# Simple HTML page to show recipes
+
