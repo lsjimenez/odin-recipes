@@ -1,0 +1,50 @@
+/* General reset and body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf6e3;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+  }
+  
+  /* Header styling */
+  h1 {
+    color: #2e8b57;
+    text-align: center;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  /* List styling */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 300px;
+    margin: 30px auto;
+  }
+  
+  /* Link styling */
+  li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #2e8b57;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #1a5c3f;
+  }
+  
